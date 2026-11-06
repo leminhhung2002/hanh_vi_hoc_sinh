@@ -46,7 +46,7 @@
 ## 🚀 Hướng dẫn cài đặt và chạy mô hình YOLOv8
 
 ### Bước 1: Thu thập dữ liệu
-Sử dụng dataset đã được gán nhãn sẵn tại môi trường Trường Đại học Đại Nam:
+
 
 [👉 Link Dataset](https://universe.roboflow.com/ttnt-nyz2m/ai-fxy4m/dataset/2)
 
