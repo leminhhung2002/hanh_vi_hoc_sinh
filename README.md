@@ -199,23 +199,4 @@ cv2.destroyAllWindows()
 Sau đó các frame nhận diện được bởi mô hình sẽ được lưu vào folder detected_frames, và các hành vi dùng điện thoại sẽ được gửi qua Telegram
 
 
-## Kết quả train model
-Ma trận nhầm lẫn
-<p align="center">
-  <img src="./anhimage/confusion_matrix.png" alt="matrix" width="800"/>
-</p>
-<br>
-Độ chính xác trung bình của các nhãn
-<p align="center">
-  <img src="./anhimage/model_test.jpg" alt="model_test" width="800"/>
-</p>
-## 🤝 Đóng góp
-Dự án được phát triển bởi 3 thành viên:
 
-| Họ và Tên                | Vai trò                  |
-|--------------------------|--------------------------|
-| Võ Vĩnh Thái             | Phát triển toàn bộ mã nguồn,kiểm thử, triển khai dự án, thuyết trình, đề xuất cải tiến.|
-| Lê Ngọc Hưng            | Thực hiện video giới thiệu|
-| Phạm Tiến Dũng   | Viết báo cáo.  |
-
-© 2025 NHÓM 2, CNTT 16-01, TRƯỜNG ĐẠI HỌC ĐẠI NAM
